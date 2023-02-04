@@ -1,7 +1,7 @@
 <h1 alight="center">Hi there 👋</h1>
-### I'm Yahor Lukyanchyk, junior Frontend developer
+I'm Yahor Lukyanchyk, junior Frontend developer
 
-### My Technology stack:
+My Technology stack:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFF"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/>
