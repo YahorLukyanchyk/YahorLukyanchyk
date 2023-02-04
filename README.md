@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 alight="center">Hi there 👋</h1>
 ### I'm Yahor Lukyanchyk, junior Frontend developer
 
 ### My Technology stack:
