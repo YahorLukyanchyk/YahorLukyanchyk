@@ -27,5 +27,5 @@ You can get to know me better by viewing my [CV](https://drive.google.com/file/d
 ## 💾 My recent projects
 
 - [CyberWeek](https://erreur200.com/questions-de-debutants-en-developpement-web-avec-killian-vaillant) - News portal based on CMS WordPress
-- [TypingWriter]() - Blind Printing training service [In Progress ...]
+- [TypingWriter](/) - Blind Printing training service [In Progress ...]
 - More coming!
