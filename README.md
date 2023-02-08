@@ -27,5 +27,6 @@ You can get to know me better by viewing my [CV](https://drive.google.com/file/d
 ## 💾 My recent projects
 
 - [CyberWeek](http://cyberwee.vh116.hosterby.com/) - News portal based on CMS WordPress
+- [gulp-init-template](https://github.com/YahorLukyanchyk/gulp-init-template) - Gulp starter template
 - [TypingTrainer](#) - Blind Printing training service **[In Progress ...]**
 - More coming!
