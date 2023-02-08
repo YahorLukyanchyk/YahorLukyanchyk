@@ -7,8 +7,8 @@ You can get to know me better by viewing my [CV](https://drive.google.com/file/d
 
 ## 📫 How to reach me
 
-* [<img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="20px" style="display: flex; align-items: center;"/> Telegram](https://t.me/supery0g)
-* [📧 <a href="mailto:yahorlukyanchyk@gmail.com?">Mail</a>](https://t.me/thedaviddias)
+* [<img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="20px"/> Telegram](https://t.me/supery0g)
+* [📧<a href="mailto:yahorlukyanchyk@gmail.com?"> Mail</a>](https://t.me/thedaviddias)
 
 
 ## 🔧 My Technology stack:
